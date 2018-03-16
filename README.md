@@ -1,6 +1,6 @@
 # GPMS
 
-This sudy describe the distribution of transposon integration sites.
+This study describes the distribution of transposon integration sites.
 
 You can find functions definition in [functions.py](functions.py) and figures production for the paper in [main.py](main.py).
 
